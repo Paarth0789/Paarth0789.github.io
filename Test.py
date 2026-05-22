@@ -7,3 +7,6 @@ if phy and chem and math > 33:
 
 else:
     print(f"Better Luck Next Time!")
+
+
+print("some code changed")
